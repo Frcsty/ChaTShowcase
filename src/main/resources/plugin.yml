@@ -1,0 +1,7 @@
+name: ChaT
+version: '${version}'
+main: org.op65n.chat.ChaTPlugin
+api-version: 1.16
+load: STARTUP
+
+depend: ["ProtocolLib"]
